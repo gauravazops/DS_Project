@@ -13,7 +13,7 @@ from src.datascience.utils.common import save_json
 
 os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/gauravazops/DS_Project.mlflow"
 os.environ["MLFLOW_TRACKING_USERNAME"] = "gauravazops"
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "64aa840b346007b7a7c8235f5cbd8b0728150321"
+os.environ["MLFLOW_TRACKING_PASSWORD"] = "###Update this from dagshub frpm dvc secret"
 
 class ModelEvaluation:
 
